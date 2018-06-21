@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTSystem_V1", "OTSystem_V1\OTSystem_V1.csproj", "{BC16ED52-38EF-407B-8E96-2A21720137EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC16ED52-38EF-407B-8E96-2A21720137EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC16ED52-38EF-407B-8E96-2A21720137EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC16ED52-38EF-407B-8E96-2A21720137EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC16ED52-38EF-407B-8E96-2A21720137EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADCB166A-24A2-491F-B61D-92D656FAF9A4}
+	EndGlobalSection
+EndGlobal
